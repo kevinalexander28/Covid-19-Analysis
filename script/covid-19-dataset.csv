@@ -1,0 +1,208 @@
+,country,confirmed,deaths,recovered,region,climate,population
+0,Afghanistan,37345,1354,26694,Asia & Pacific,nontropic,38041754.0
+1,Albania,6817,208,3552,Europe,nontropic,2854191.0
+2,Algeria,36699,1333,25627,Arab States,nontropic,43053054.0
+3,Andorra,977,53,855,Europe,nontropic,77142.0
+4,Angola,1762,80,577,Africa,tropic,31825295.0
+5,Antigua and Barbuda,92,3,76,South/Latin America,tropic,97118.0
+6,Argentina,268574,5213,187283,South/Latin America,nontropic,44938712.0
+7,Armenia,40794,806,33492,Europe,nontropic,2957731.0
+8,Aruba,4,0,0,South/Latin America,tropic,106314.0
+9,Australia,22358,361,12779,Asia & Pacific,nontropic,25364307.0
+10,Austria,22439,724,20268,Europe,nontropic,8877067.0
+11,Azerbaijan,33824,497,31058,Asia & Pacific,nontropic,10023318.0
+12,Bahamas,1036,15,122,South/Latin America,tropic,389482.0
+13,Bahrain,45264,166,41836,Arab States,nontropic,1641172.0
+14,Bangladesh,266498,3513,153089,Asia & Pacific,nontropic,163046161.0
+15,Barbados,144,7,115,South/Latin America,tropic,287025.0
+16,Belarus,69102,595,65893,Europe,nontropic,9466856.0
+17,Belgium,75647,9900,17883,Europe,nontropic,11484055.0
+18,Belize,210,2,32,South/Latin America,tropic,390353.0
+19,Benin,2014,38,1681,Africa,tropic,11801151.0
+20,Bhutan,113,0,97,Asia & Pacific,nontropic,763092.0
+21,Bolivia,95071,3827,32830,South/Latin America,tropic,11513100.0
+22,Bosnia and Herzegovina,14961,453,8827,Europe,nontropic,3301000.0
+23,Botswana,1066,2,80,Africa,nontropic,2303697.0
+24,Brazil,3164785,104201,2506228,South/Latin America,tropic,211049527.0
+25,Brunei,142,3,138,Asia & Pacific,tropic,433285.0
+26,Bulgaria,13893,482,8479,Europe,nontropic,6975761.0
+27,Burkina Faso,1213,54,995,Africa,tropic,20321378.0
+28,Burma,361,6,318,Asia & Pacific,tropic,
+29,Burundi,409,1,315,Africa,tropic,11530580.0
+30,Cambodia,272,0,223,Asia & Pacific,tropic,16486542.0
+31,Cameroon,18263,401,15320,Africa,tropic,25876380.0
+32,Canada,122703,9052,108829,North America,nontropic,37589262.0
+33,Cape Verde,3000,33,2172,Africa,nontropic,549935.0
+34,Cayman Islands,1,0,0,South/Latin America,tropic,64948.0
+35,Central African Republic,4652,61,1728,Africa,tropic,4745185.0
+36,Chad,949,76,859,Africa,tropic,15946876.0
+37,Channel Islands,1,0,0,Europe,nontropic,172259.0
+38,Chile,378168,10205,351419,South/Latin America,nontropic,18952038.0
+39,China,84756,4634,79398,,,1397715000.0
+40,Colombia,422519,13837,239785,South/Latin America,tropic,50339443.0
+41,Comoros,399,7,379,,,850886.0
+42,Congo,13283,285,10046,Africa,tropic,86790567.0
+43,Costa Rica,25057,263,8189,South/Latin America,tropic,5047561.0
+44,Croatia,5870,160,5024,Europe,nontropic,4067500.0
+45,Cuba,3128,88,2504,South/Latin America,tropic,11333483.0
+46,Curacao,1,0,0,Unknown,nontropic,157538.0
+47,Cyprus,1291,20,870,Europe,nontropic,1198575.0
+48,Czech Republic,19075,391,13407,Europe,nontropic,10669709.0
+49,Denmark,15423,621,13305,Europe,nontropic,5818553.0
+50,Djibouti,5358,59,5150,Arab States,tropic,973560.0
+51,Dominica,18,0,18,South/Latin America,tropic,71808.0
+52,Dominican Republic,82224,1371,47095,South/Latin America,tropic,10738958.0
+53,Ecuador,97110,5984,78887,South/Latin America,tropic,17373662.0
+54,Egypt,95963,5085,55901,Middle east,nontropic,100388073.0
+55,El Salvador,21644,577,10056,South/Latin America,tropic,6453553.0
+56,Equatorial Guinea,4821,83,2182,Africa,tropic,1355986.0
+57,Eritrea,285,0,248,Africa,tropic,
+58,Estonia,2174,69,1975,Europe,nontropic,1326590.0
+59,Eswatini,3525,63,1910,Africa,nontropic,1148130.0
+60,Ethiopia,25118,463,11034,Africa,tropic,112078730.0
+61,Faroe Islands,2,0,0,Europe,nontropic,48678.0
+62,Fiji,27,1,18,Asia & Pacific,nontropic,889953.0
+63,Finland,7642,333,7050,Europe,nontropic,5520314.0
+64,France,244088,30375,83609,Europe,nontropic,67059887.0
+65,French Guiana,18,0,6,South/Latin America,tropic,
+66,Gabon,8077,51,5920,Africa,tropic,2172579.0
+67,Gambia,1477,33,247,Africa,tropic,
+68,Georgia,1278,17,1058,Europe,nontropic,3720382.0
+69,Germany,220859,9213,198991,Europe,nontropic,83132799.0
+70,Ghana,41572,223,39320,Africa,nontropic,30417856.0
+71,Gibraltar,1,0,1,Europe,nontropic,33701.0
+72,Greece,6177,216,1374,Europe,nontropic,10716322.0
+73,Greenland,1,0,0,Europe,nontropic,56225.0
+74,Grenada,24,0,23,South/Latin America,tropic,112003.0
+75,Guadeloupe,53,0,0,South/Latin America,tropic,
+76,Guam,3,0,0,Asia & Pacific,nontropic,167294.0
+77,Guatemala,59089,2267,47394,South/Latin America,tropic,16604026.0
+78,Guernsey,1,0,0,Europe,nontropic,
+79,Guinea,8116,50,7060,Africa,tropic,12771246.0
+80,Guinea-Bissau,2088,29,1015,Africa,tropic,1920922.0
+81,Guyana,623,22,191,South/Latin America,tropic,782766.0
+82,Haiti,7743,187,5123,South/Latin America,tropic,11263077.0
+83,Honduras,48657,1533,6945,South/Latin America,tropic,9746117.0
+84,Hong Kong,4243,63,3189,Asia & Pacific,nontropic,7507400.0
+85,Hungary,4768,605,3529,Europe,nontropic,9769949.0
+86,Iceland,1972,10,1907,Europe,nontropic,361313.0
+87,India,2396637,47033,1695982,Asia & Pacific,tropic,1366417754.0
+88,Indonesia,130718,5903,85798,Asia & Pacific,tropic,270625568.0
+89,Iran,333699,18988,290244,Middle east,nontropic,82913906.0
+90,Iraq,160436,5588,114541,Middle east,nontropic,39309783.0
+91,Ireland,26838,1774,23364,Europe,nontropic,4941444.0
+92,Israel,88151,639,62109,Europe,nontropic,9053300.0
+93,Italy,251713,35225,202697,Europe,nontropic,60297396.0
+94,Ivory Coast,16847,105,13321,Africa,tropic,
+95,Jamaica,1065,14,753,South/Latin America,tropic,2948279.0
+96,Japan,51288,1066,34969,Asia & Pacific,nontropic,126264931.0
+97,Jersey,2,0,0,Europe,nontropic,
+98,Jordan,1303,11,1215,Middle east,nontropic,10101694.0
+99,Kazakhstan,101372,1269,76756,Asia & Pacific,nontropic,18513930.0
+100,Kenya,28104,456,14610,Africa,tropic,52573973.0
+101,Kosovo,10419,341,6058,Europe,nontropic,1794248.0
+102,Kuwait,73785,489,65451,Middle east,nontropic,4207083.0
+103,Kyrgyzstan,40759,1484,32997,Asia & Pacific,nontropic,6456900.0
+104,Laos,20,0,19,Asia & Pacific,tropic,
+105,Latvia,1303,32,1078,Europe,nontropic,1912789.0
+106,Lebanon,7413,89,2407,Middle east,nontropic,6855713.0
+107,Lesotho,798,24,175,,,2125268.0
+108,Liberia,1252,82,738,Africa,tropic,4937374.0
+109,Libya,6611,132,778,Middle east,nontropic,6777452.0
+110,Liechtenstein,90,2,87,Europe,nontropic,38019.0
+111,Lithuania,2309,81,1683,Europe,nontropic,2786844.0
+112,Luxembourg,7300,122,6262,Europe,nontropic,619896.0
+113,Macau,46,0,46,Asia & Pacific,nontropic,
+114,Macedonia,12217,530,8487,Europe,nontropic,2083459.0
+115,Madagascar,13397,156,11529,Africa,tropic,26969307.0
+116,Malawi,4752,152,2529,Africa,tropic,18628747.0
+117,Malaysia,9114,125,8817,Asia & Pacific,tropic,31949777.0
+118,Maldives,5366,21,2884,Asia & Pacific,nontropic,530953.0
+119,Mali,2582,125,1977,Africa,tropic,19658031.0
+120,Malta,1190,9,695,Europe,nontropic,502653.0
+121,Martinique,32,1,0,South/Latin America,tropic,
+122,Mauritania,6622,157,5741,Arab States,tropic,4525696.0
+123,Mauritius,344,10,334,Africa,tropic,1265711.0
+124,Mayotte,7,0,0,Africa,tropic,
+125,Mexico,498380,54666,401182,South/Latin America,tropic,127575529.0
+126,Moldova,28697,863,19998,Europe,nontropic,2657637.0
+127,Monaco,141,4,114,Europe,nontropic,38964.0
+128,Mongolia,297,0,269,Asia & Pacific,nontropic,3225167.0
+129,Montenegro,3813,73,2638,Europe,nontropic,622137.0
+130,Morocco,36694,556,25677,Arab States,nontropic,36471769.0
+131,Mozambique,2559,19,951,Africa,tropic,30366036.0
+132,Namibia,3406,22,835,Africa,nontropic,2494530.0
+133,Nepal,24432,91,16728,Asia & Pacific,nontropic,28608710.0
+134,Netherlands,61718,6182,322,Europe,nontropic,17332850.0
+135,New Zealand,1589,22,1531,Asia & Pacific,nontropic,4917000.0
+136,Nicaragua,4115,128,2913,South/Latin America,tropic,6545502.0
+137,Niger,1161,69,1075,Africa,tropic,23310715.0
+138,Nigeria,47743,956,33943,Africa,tropic,200963599.0
+139,Norway,9783,256,8857,Europe,nontropic,5347896.0
+140,Oman,82299,539,77072,Middle east,nontropic,4974986.0
+141,Others,721,15,651,,,
+142,Pakistan,285921,6129,263193,Asia & Pacific,nontropic,216565318.0
+143,Palestine,15184,105,8369,Arab States,nontropic,4685306.0
+144,Panama,77377,1703,51597,South/Latin America,tropic,4246439.0
+145,Papua New Guinea,287,3,78,Asia & Pacific,nontropic,8776109.0
+146,Paraguay,8018,93,5384,South/Latin America,tropic,7044636.0
+147,Peru,489680,21501,341938,South/Latin America,tropic,32510453.0
+148,Philippines,143749,2404,68997,Asia & Pacific,tropic,108116615.0
+149,Poland,53676,1830,37611,Europe,nontropic,37970874.0
+150,Portugal,53223,1764,38940,Europe,nontropic,10269417.0
+151,Puerto Rico,3,0,0,South/Latin America,tropic,3193694.0
+152,Qatar,113938,190,110627,Middle east,nontropic,2832067.0
+153,Republic of the Congo,1,0,0,Africa,nontropic,
+154,Reunion,45,0,0,Asia & Pacific,tropic,
+155,Romania,65177,2807,31048,Europe,nontropic,19356544.0
+156,Russia,900745,15231,708900,Europe,nontropic,144373535.0
+157,Rwanda,2189,8,1524,Africa,tropic,12626950.0
+158,Saint Barthelemy,3,0,0,South/Latin America,tropic,
+159,Saint Kitts and Nevis,17,0,17,South/Latin America,tropic,52834.0
+160,Saint Lucia,25,0,25,South/Latin America,tropic,182790.0
+161,Saint Vincent and the Grenadines,57,0,52,South/Latin America,tropic,110589.0
+162,San Marino,699,42,657,Europe,nontropic,33860.0
+163,Sao Tome and Principe,882,15,807,,,215056.0
+164,Saudi Arabia,293037,3269,257269,Middle east,nontropic,34268528.0
+165,Senegal,11587,242,7523,Africa,tropic,16296364.0
+166,Serbia,28751,658,15564,Europe,nontropic,6944975.0
+167,Seychelles,127,0,126,Africa,tropic,97625.0
+168,Sierra Leone,1937,69,1483,Africa,tropic,7813215.0
+169,Singapore,55395,27,50520,Asia & Pacific,tropic,5703569.0
+170,Slovakia,2690,31,1884,Europe,nontropic,5454073.0
+171,Slovenia,2303,129,1960,Europe,nontropic,2087946.0
+172,Somalia,3227,93,1728,Arab States,tropic,15442905.0
+173,South Africa,568919,11010,432029,Africa,nontropic,58558270.0
+174,South Korea,14770,305,13817,Asia & Pacific,nontropic,51709098.0
+175,South Sudan,2477,47,1175,,,11062113.0
+176,Spain,329784,28752,150376,Europe,nontropic,47076781.0
+177,Sri Lanka,2881,11,2638,Asia & Pacific,nontropic,21803000.0
+178,St. Martin,2,0,0,South/Latin America,tropic,38002.0
+179,Sudan,12033,786,6282,Arab States,tropic,42813238.0
+180,Suriname,2653,39,1789,South/Latin America,tropic,581363.0
+181,Sweden,83455,5774,4971,Europe,nontropic,10285453.0
+182,Switzerland,37169,1991,32700,Europe,nontropic,8574832.0
+183,Syria,1327,53,385,Asia & Pacific,nontropic,
+184,Taiwan,481,7,450,Asia & Pacific,nontropic,
+185,Tajikistan,7912,63,6696,,,9321018.0
+186,Tanzania,509,21,183,Africa,tropic,58005463.0
+187,Thailand,3356,58,3169,Asia & Pacific,tropic,69625582.0
+188,Timor-Leste,25,0,24,Asia & Pacific,tropic,1293119.0
+189,Togo,1092,26,782,Africa,tropic,8082366.0
+190,Trinidad and Tobago,326,8,139,South/Latin America,tropic,1394973.0
+191,Tunisia,1780,52,1278,Arab States,nontropic,11694719.0
+192,Turkey,244392,5891,227089,Europe,nontropic,83429615.0
+193,UK,315581,46791,1472,Europe,nontropic,66834405.0
+194,US,5197118,166026,1753760,North America,nontropic,328239523.0
+195,Uganda,1332,9,1139,Africa,tropic,44269594.0
+196,Ukraine,86504,1999,47084,Europe,nontropic,44385155.0
+197,United Arab Emirates,63212,358,57193,Middle east,nontropic,9770529.0
+198,Uruguay,1393,37,1163,South/Latin America,nontropic,3461734.0
+199,Uzbekistan,32654,211,25659,Asia & Pacific,nontropic,33580650.0
+200,Vatican,12,0,12,Europe,nontropic,
+201,Venezuela,29088,247,21042,South/Latin America,tropic,28515829.0
+202,Vietnam,883,18,451,Asia & Pacific,tropic,96462106.0
+203,Western Sahara,10,1,8,,,1106957898.0
+204,Yemen,1841,528,937,,,29161922.0
+205,Zambia,8501,246,7233,Africa,tropic,17861030.0
+206,Zimbabwe,4893,122,1620,Africa,nontropic,14645468.0
